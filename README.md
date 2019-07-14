@@ -73,7 +73,7 @@ With EasyCloud, a user can:
 
 ## Wiki
 
-Please, consult the [Wiki](wiki) for a more detailed explanation on how to configure EasyCloud.
+Please, consult the [Wiki](../../wiki) for a more detailed explanation on how to configure EasyCloud.
 
 ## Supported platforms
 
@@ -90,9 +90,9 @@ The following platforms are currently supported by EasyCloud
 You can download the application source code from our git repository by using the `git clone <URL>` command,
 where `<URL>` has to be replaced with one of the following:
 
-0.10.0 (Preview)(**Current**) - [https://github.com/subwave07/easycloud](https://github.com/subwave07/easycloud.git)  
-0.08.0 (CloudTUI-FTS, Preview) - [https://github.com/mrbuzz/CloudTUI-FTS](https://github.com/mrbuzz/CloudTUI-FTS.git)  
-0.06.0 (CloudTUI-FTS, Preview) - [https://github.com/trampfox/CloudTUI-FTS](https://github.com/trampfox/CloudTUI-FTS.git)
+0.10.0 (Preview)(**Current**) - `https://github.com/subwave07/easycloud.git`  
+0.08.0 (CloudTUI-FTS, Preview) - `https://github.com/mrbuzz/CloudTUI-FTS.git`  
+0.06.0 (CloudTUI-FTS, Preview) - `https://github.com/trampfox/CloudTUI-FTS.git`
 
 ## License
 This project is available under the GNU General Public License v3. A copy of this license is shipped with the tool and available [here](LICENSE).
