@@ -1,0 +1,25 @@
+{
+    "rules": [
+        {
+            "name": "cpu_load_gt_60%",
+            "target": "cpu_load",
+            "operator": ">",
+            "threshold": 60.0,
+            "action": "clone"
+        },
+        {
+            "name": "free_mem_lt_500MB",
+            "target": "memory_free",
+            "operator": "<",
+            "threshold": 500000000.0,
+            "action": "clone"
+        },
+        {
+            "name": "used_mem_gt_500MB",
+            "target": "memory_used",
+            "operator": ">",
+            "threshold": 500000000.0,
+            "action": "clone"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "metrics":[
+        {
+            "name":"cpu_load",
+            "unit":"percentage"
+        },
+        {
+            "name":"memory_free",
+            "unit":"byte"
+        },
+        {
+            "name":"memory_used",
+            "unit":"byte"
+        }
+    ]
+}

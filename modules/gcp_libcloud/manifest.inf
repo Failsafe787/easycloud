@@ -1,0 +1,31 @@
+[manifest]
+
+# Name of the platform
+platform_name = Google Cloud Platform (Libcloud)
+
+# Package name (name of the directory in which module files are stored)
+# Do not edit unless you know what are you doing
+package_name = gcp_libcloud
+
+# Name of the manager class of this module
+# Do not edit unless you know what are you doing
+manager_name = GCP
+
+# Library dependencies
+dependencies = apache-libcloud:git+https://github.com/subwave07/libcloud.git@trunk,
+               google-auth, google-auth-oauthlib, google-cloud-monitoring, pytz, tzlocal
+
+# Author
+author = Luca Banzato
+
+# Email
+email = 20005492@studenti.uniupo.it
+
+# Version
+module_version = 0.10.0
+
+# Release date
+release_date = February 26, 2019
+
+# License
+license = GNU v3

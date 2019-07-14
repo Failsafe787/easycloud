@@ -1,0 +1,31 @@
+[manifest]
+
+# Name of the platform
+platform_name = Chameleon Cloud (Libcloud)
+
+# Package name (name of the directory in which module files are stored)
+# Do not edit unless you know what are you doing
+package_name = chameleon_libcloud
+
+# Name of the manager class of this module
+# Do not edit unless you know what are you doing
+manager_name = ChameleonCloud
+
+# Library dependencies
+dependencies = apache-libcloud:git+https://github.com/subwave07/libcloud.git@trunk,
+               gnocchiclient, python-blazarclient, pytz, tzlocal
+
+# Author
+author = Luca Banzato
+
+# Email
+email = 20005492@studenti.uniupo.it
+
+# Version
+module_version = 0.10.0
+
+# Release date
+release_date = February 09, 2019
+
+# License
+license = GNU v3

@@ -1,0 +1,6 @@
+{
+  "packages": [
+    { "name":"tzlocal", "pip_package":"tzlocal"},
+    { "name":"texttable", "pip_package":"texttable"}
+  ]
+}
