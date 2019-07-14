@@ -1,0 +1,10 @@
+---
+layout: default
+img: upo.png
+category: Features
+title: An university project, free and open source
+description: |
+---
+This project is a collaborative effort made by some students of the University of Eastern Piedmont in order
+to create a tool for managing different cloud platforms with a unique simple tool.<br/>
+It is completely free and distributed under the GNU General Public License v3.

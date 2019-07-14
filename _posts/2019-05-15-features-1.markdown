@@ -1,0 +1,9 @@
+---
+layout: default
+img: tui_min.png
+category: Features
+title: Manage your Cloud Services with a single Text User Interface
+description: |
+---
+  Thanks to EasyCloud, the user can easily complete both basic and complex tasks, such as virtual
+  machines creations, volumes and floating IPs management!

@@ -1,0 +1,10 @@
+---
+layout: default
+img: rules.jpg
+category: Features
+title: Define your own rules!
+description: |
+---
+An integrated Monitor and Rule Engine allows to keep an eye on all of your instances and issue commands
+if certain requirements are met (e.g. clone the instance if its CPU usage was over 80% during the last 5 minutes).<br/>
+In this way, the user can create policies and mechanisms to prevent faults and to provide service scalability.
