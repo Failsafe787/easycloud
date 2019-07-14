@@ -2,7 +2,7 @@
 
 |Website|Download|Wiki|Report|License|Issues|
 |---------|---------|---------|---------|----------|----------|
-| [![Website Button](https://img.shields.io/badge/Open-Website-green.svg)](https://subwave07.github.io/easycloud)| [![Download Button](https://img.shields.io/badge/EasyCloud-0.10.0-blue.svg)](../../archive/master.zip) | [![Wiki Button](../../wiki)](releases) | [![Thesis Button](https://img.shields.io/badge/Report-Italian-yellow.svg)](dummy) | [![GNU v3 License Button](https://img.shields.io/badge/License-GNU%20v3-green.svg)](LICENSE) | [![Report Problems Button](https://img.shields.io/badge/Report-Problems-red.svg)](issues)|
+| [![Website Button](https://img.shields.io/badge/Open-Website-green.svg)](https://subwave07.github.io/easycloud)| [![Download Button](https://img.shields.io/badge/EasyCloud-0.10.0-blue.svg)](../../archive/master.zip) | [![Wiki Button](../../wiki)] | [![Thesis Button](https://img.shields.io/badge/Report-Italian-yellow.svg)](dummy) | [![GNU v3 License Button](https://img.shields.io/badge/License-GNU%20v3-green.svg)](LICENSE) | [![Report Problems Button](https://img.shields.io/badge/Report-Problems-red.svg)](issues)|
 
 
 EasyCloud is a text user interface written in Python able to interact with
