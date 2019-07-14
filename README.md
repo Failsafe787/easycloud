@@ -1,8 +1,8 @@
 # EasyCloud (ALPHA)
 
-|Download|Report|License|Issues|
-|---------|---------|---------|----------|
-| [![Download Button](https://img.shields.io/badge/EasyCloud-0.10.0-blue.svg)](releases) | [![Thesis Button](https://img.shields.io/badge/Report-Italian-yellow.svg)](dummy) | [![GNU v3 License Button](https://img.shields.io/badge/License-GNU%20v3-green.svg)](LICENSE) | [![Report Problems Button](https://img.shields.io/badge/Report-Problems-red.svg)](issues)|
+|Download|Wiki|Report|License|Issues|
+|---------|---------|---------|----------|----------|
+| [![Download Button](https://img.shields.io/badge/EasyCloud-0.10.0-blue.svg)](../../archive/master.zip) | [![Wiki Button](https://img.shields.io/badge/Open-Wiki-brightgreen.svg)](releases) | [![Thesis Button](https://img.shields.io/badge/Report-Italian-yellow.svg)](dummy) | [![GNU v3 License Button](https://img.shields.io/badge/License-GNU%20v3-green.svg)](LICENSE) | [![Report Problems Button](https://img.shields.io/badge/Report-Problems-red.svg)](issues)|
 
 
 EasyCloud is a text user interface written in Python able to interact with
